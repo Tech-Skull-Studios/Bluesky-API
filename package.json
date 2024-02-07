@@ -1,0 +1,17 @@
+{
+  "name": "com.techskullstudios.blueskyapi",
+  "version": "1.0.0",
+  "displayName": "Tech Skull Studios Bluesky API",
+  "description": "Plugin that provides API integration for Bluesky social media.",
+  "unity": "2020.1",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  },
+  "author": {
+    "name": "Tech Skull Studios",
+    "email": "pocketbuggames@gmail.com",
+    "url": "https://techskullgames.weebly.com/"
+  },
+  "samples": [
+  ]
+}
